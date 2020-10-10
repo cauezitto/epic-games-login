@@ -1,11 +1,11 @@
-#pré requisitos para rodar em sua máquina
+# pré requisitos para rodar em sua máquina
 
 nodejs instalado 
 npm ou yarn instalado
 
 deixar uma aba do navegador aberta
 
-##Como faço para rodar?
+## Como faço para rodar?
 
 1 - Clone o repositório e abra o terminal na pasta do projeto
 2 - Rode no terminal o comando "npm install" ou "yarn install" se estiver usando o yarn

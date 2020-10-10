@@ -3,10 +3,10 @@
 nodejs instalado
 
 
-npm ou yarn instalado.- -
+npm ou yarn instalado
 
 
-deixar uma aba do navegador aberta.- -
+deixar uma aba do navegador aberta
 
 
 ## Como faço para rodar?
